@@ -8,7 +8,7 @@ Bibtex.
 @article{praful2019TypicalCell,
   title={Meta Distribution Analysis of the Downlink SIR for the Typical Cell in a Poisson Cellular Network},
   author={Mankar, Praful D and Dhillon, Harpreet S and Haenggi, Martin},
-  note={To appear online},
+  note={Submitted},
   year={2019}
 }
 ```
