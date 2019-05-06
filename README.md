@@ -7,5 +7,5 @@ Description: Matlab code for the distance distributions used in the paper "Meta 
 Use 'Main.m' to verify the distributions of Rn and to obtained the correction factors rho_n. 
 
 
-#### Reference: [1] M. Haenggi, "User Point Processes in Cellular Networks," in IEEE Wireless Communications Letters, vol. 6, no. 2, pp. 258-261, April 2017.
+Reference: [1] M. Haenggi, "User Point Processes in Cellular Networks," in IEEE Wireless Communications Letters, vol. 6, no. 2, pp. 258-261, April 2017.
  
